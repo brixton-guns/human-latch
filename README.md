@@ -8,7 +8,7 @@ There is **no** WebMCP tool for the latch. Agents cannot press it.
 
 ## Live
 
-https://human-latch.vercel.app
+https://brixton-guns.github.io/human-latch/
 
 ## What the agent gets
 
