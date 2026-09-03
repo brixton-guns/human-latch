@@ -4,7 +4,7 @@ An agent can fill a wire transfer. The `submit` tool **fails** until a person pr
 
 Not a spec checker. Not a tool catalog. The demo is: agent fills → submit rejected → human clicks → submit ok.
 
-There is **no** WebMCP tool for the latch. Agents cannot press it.
+There is **no** WebMCP tool for the latch. The WebMCP tool surface cannot open it. This is not proof of human presence; a computer-use agent controlling the browser may still activate the UI control.
 
 ## Live
 
